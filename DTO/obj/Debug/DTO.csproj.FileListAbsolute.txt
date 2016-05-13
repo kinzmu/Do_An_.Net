@@ -1,0 +1,10 @@
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\bin\Debug\DTO.dll.config
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\bin\Debug\DTO.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\bin\Debug\DTO.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\bin\Debug\EntityFramework.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\bin\Debug\EntityFramework.xml
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\obj\Debug\DTO.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DTO\obj\Debug\DTO.pdb

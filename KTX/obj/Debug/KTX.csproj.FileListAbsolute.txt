@@ -1,0 +1,9 @@
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\bin\Debug\KTX.exe.config
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\bin\Debug\KTX.exe
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\bin\Debug\KTX.pdb
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\obj\Debug\KTX.csprojResolveAssemblyReference.cache
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\obj\Debug\KTX.Form1.resources
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\obj\Debug\KTX.Properties.Resources.resources
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\obj\Debug\KTX.csproj.GenerateResource.Cache
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\obj\Debug\KTX.exe
+c:\users\kinzmu\documents\visual studio 2015\Projects\KTX\KTX\obj\Debug\KTX.pdb

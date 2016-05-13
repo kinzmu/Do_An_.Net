@@ -1,0 +1,14 @@
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\BUS.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\BUS.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\DAO.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\DTO.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\DAO.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\DTO.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\EntityFramework.xml
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\obj\Debug\BUS.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\obj\Debug\BUS.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\BUS.dll.config
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\EntityFramework.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\BUS\bin\Debug\EntityFramework.SqlServer.xml

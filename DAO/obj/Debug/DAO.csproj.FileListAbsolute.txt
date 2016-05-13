@@ -1,0 +1,12 @@
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\DAO.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\DAO.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\obj\Debug\DAO.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\obj\Debug\DAO.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\DAO.dll.config
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\DTO.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\EntityFramework.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\DTO.pdb
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\EntityFramework.xml
+c:\Users\KinzMU\documents\visual studio 2015\Projects\KTX\DAO\bin\Debug\EntityFramework.SqlServer.xml
